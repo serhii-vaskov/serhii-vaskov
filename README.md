@@ -1,79 +1,67 @@
-# Hi, I'm Serhii 👋
+# Serhii Vaskov
 
-Data-oriented developer with a background in physics.
-Focused on data analysis, visualization, and frontend development.
-Based in Germany.
-
----
-
-## 🔍 About me
-
-I work at the intersection of data and interfaces: turning raw data into clear insights and usable visualizations.
-My background in physics helps me approach problems analytically, structure complex information, and focus on accuracy and clarity.
+Data Analyst & Frontend Developer
+Germany
 
 ---
 
-## 🔧 Tech stack
+## Summary
 
-**Data & Analytics**
-
-* Python
-* Data cleaning and exploratory data analysis
-* Basic statistics
-
-**Visualization**
-
-* Google Sheets
-* Microsoft Exel
-* Tableau
-* Microsoft Power BI
-
-**Frontend**
-
-* JavaScript
-* HTML5, CSS
-* React
-* TypeScript
-
-**Tools**
-
-* Git, GitHub
-* Linux
-* VS Code
-* PyCharm
+Data‑oriented developer with a background in physics.  
+Focus areas: data analysis, data processing, visualization, and frontend engineering.  
+Experience with analytical workflows, structured problem‑solving, and building data‑driven interfaces.
 
 ---
 
-## 📌 Current focus
+## Technical Skills
 
-* Building data analysis projects using real-world datasets
-* Creating clear and structured visualizations
-* Strengthening frontend fundamentals
-* Writing clean, readable, and well-documented code
+### Data & Analytics
+- Python (Pandas, NumPy)
+- Data cleaning, preprocessing, EDA
+- Basic statistics and analytical methods
+- Working with structured and semi‑structured datasets
+
+### Visualization
+- Microsoft Excel
+- Google Sheets
+- Tableau
+- Microsoft Power BI
+
+### Frontend Development
+- JavaScript (ES6+)
+- TypeScript
+- React
+- HTML5, CSS3
+
+### Tools & Environment
+- Git, GitHub
+- Linux
+- VS Code, PyCharm
 
 ---
 
-## 📊 Project directions
+## Current Work
 
-* Exploratory data analysis
-* Data visualization dashboards
-* Small frontend applications with data-driven logic
-* Analytical tasks and problem-solving exercises
+- Development of analytical projects using real datasets  
+- Building dashboards and visualization pipelines  
+- Strengthening frontend architecture and TypeScript skills  
+- Writing maintainable, well‑structured code
 
 ---
 
-## 🎓 Background
+## Project Areas
 
-* Degree in Physics (Magnetic phenomena)
-* Strong analytical and mathematical foundation
-  
+- Exploratory data analysis (EDA)
+- Data visualization dashboards
+- Data‑driven frontend applications
+- Analytical problem‑solving tasks
+
 ---
 
-## 🧠 How I work
+## Education
 
-* I value clarity over cleverness
-* I focus on structure, readability, and logic
-* I enjoy turning complexity into simple explanations
+- Degree in Physics (Magnetic phenomena)
+- Strong mathematical and analytical foundation
 
 ---
 
